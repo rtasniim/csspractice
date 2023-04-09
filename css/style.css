@@ -1,0 +1,13 @@
+h1{color:black;
+background-color:pink;}
+h2{color:white;}
+body{background-color:skyblue;}
+button{outline:coral;
+	outline-style:revert;
+	color:darkblue;
+background-color:floralwhite;}
+p{margin:50px;
+	border:5px dotted red;
+border-radius:10px;
+outline:5px solid green;
+outline-offset:10px}
